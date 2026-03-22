@@ -15,7 +15,7 @@ Inspired from the cute Capybara, the keyboard is a cozy comfort to all students 
 ## BOM:
 - 79x Cherry MX Switches
 - 79x SK6812 Mini LEDs
-- 79x IN4148 Diodes
+- 79x 1N4148 Diodes
 - 1x 128x64 OLED Screen
 - 2x 4.7k 0603 Resistors
 - 2x EC11E Rotary Encoders
