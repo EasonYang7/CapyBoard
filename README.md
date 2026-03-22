@@ -1,6 +1,7 @@
 # CapyBoard
 
 Capyboard is a custom designed 80% TKL with custom knobs & OLED screen to fuel the exciting daily workload!
+
 Inspired from the cute Capybara, the keyboard is a cozy comfort to all students studying for exams, and locking in for academics :)
 
 ## Features:
