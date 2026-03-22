@@ -23,6 +23,22 @@ Inspired from the cute Capybara, the keyboard is a cozy comfort to all students 
 - 1x Raspberry Pi Pico
 - 1x Keycap Set
 
+## Flashing Firmware:
+1. Hold BOOTSEL Button on Pico
+2. Plug in USB Cable
+3. Drag and Drop .uf2 file into RPI-RP2 Drive
+
+## Assembly
+- Solder components using the schematic as reference
+- Install switches onto PCB
+- 3D Print the Case
+- Use M2 Screws to Assemble the Chassis
+- Flash Firmware onto the Keyboard!
+
+## Usage
+- Plug USB-C Cable to the Seeed Xiao Studio RP2040
+- Keys are Mapped, and can be Modified using KMK!
+
 ## Pictures
 Schematics:
 <img width="2198" height="1128" alt="image" src="https://github.com/user-attachments/assets/588d6356-6007-4589-a263-08204007432d" />
