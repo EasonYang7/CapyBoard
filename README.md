@@ -23,6 +23,13 @@ Inspired from the cute Capybara, the keyboard is a cozy comfort to all students 
 - 1x Raspberry Pi Pico
 - 1x Keycap Set
 
+## Microcontroller
+This keyboard supports two microcontroller options:
+- Seeed Studio Xiao RP2040 (Main Usage)
+- Raspberry Pi Pico (Alternative Usage if Needed)
+
+Both firmware files will be used for seperate input purposes
+
 ## Flashing Firmware:
 
 ### Step 1 - Install MicroPython
