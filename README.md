@@ -24,9 +24,18 @@ Inspired from the cute Capybara, the keyboard is a cozy comfort to all students 
 - 1x Keycap Set
 
 ## Flashing Firmware:
-1. Hold BOOTSEL Button on Pico
-2. Plug in USB Cable
+
+### Step 1 - Install MicroPython
+1. Hold BOOTSEL Button on XIAO, and plug in USB-C
+2. Download MicroPython .uf2 from https://micropython.org/download/SEEED_XIAO_RP2040/
 3. Drag and Drop .uf2 file into RPI-RP2 Drive
+
+### Step 2 - Install KMK
+1. Download KMK from https://github.com/KMKfw/kmk_firmware
+2. Copy the kmk folder to my XIAO
+
+**Step 3 - Flash Keyboard Firmware**
+1. Copy XIAO_code.py to your XIAO and rename it main.py
 
 ## Assembly
 - Solder components using the schematic as reference
