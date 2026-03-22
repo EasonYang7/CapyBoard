@@ -21,6 +21,7 @@ Inspired from the cute Capybara, the keyboard is a cozy comfort to all students 
 - 2x EC11E Rotary Encoders
 - 1x Seeed Studio Xiao
 - 1x Raspberry Pi Pico
+- 1x Keycap Set
 
 ## Pictures
 Schematics:
